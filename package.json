@@ -1,0 +1,20 @@
+{
+  "name": "apollo-server-v4-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.4.0",
+    "graphql": "^16.6.0",
+    "ts-jest": "^29.0.5",
+    "ts-node-dev": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.4.0"
+  }
+}
